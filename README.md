@@ -19,5 +19,3 @@ Mostly used language:
 <img src="assets/icon-4F5D95.svg" /> PHP
 &nbsp;
 <img src="assets/icon-f34b7d.svg" /> C++
-&nbsp;
-<img src="assets/icon-384d54.svg" /> Dockerfile
