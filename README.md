@@ -12,7 +12,7 @@ Mostly used language:
 &nbsp;
 <img src="assets/icon-563d7c.svg" /> CSS
 &nbsp;
-<img src="assets/icon-f1e05a.svg" /> Javascript
+<img src="assets/icon-f1e05a.svg" /> Dart
 &nbsp;
 <img src="assets/icon-e34c26.svg" /> HTML
 &nbsp;
