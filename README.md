@@ -1,5 +1,3 @@
-Mostly used language:
-
 <img src="assets/icon-3178c6.svg" /> Typescript
 &nbsp;
 <img src="assets/icon-178600.svg" /> C#
