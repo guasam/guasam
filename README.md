@@ -8,3 +8,5 @@
 <span><img src="assets/icon-e34c26.svg" /> HTML</span> &nbsp;
 <span><img src="assets/icon-4F5D95.svg" /> PHP</span> &nbsp;
 <span><img src="assets/icon-f34b7d.svg" /> C++</span> &nbsp;
+<span><img src="assets/icon-00ADD8.svg" /> SQL</span> &nbsp;
+<span><img src="assets/icon-4F5D95.svg" /> Dockerfile</span> &nbsp;
